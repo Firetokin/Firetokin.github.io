@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Fire</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-07-26T12:20:26.209Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Tokin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>谷歌访问助手安装</title>
+    <link href="http://yoursite.com/2019/07/26/%E8%B0%B7%E6%AD%8C%E8%AE%BF%E9%97%AE%E5%8A%A9%E6%89%8B%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2019/07/26/谷歌访问助手安装/</id>
+    <published>2019-07-26T12:20:44.607Z</published>
+    <updated>2019-07-26T12:20:26.209Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="谷歌访问助手安装"><a href="#谷歌访问助手安装" class="headerlink" title="谷歌访问助手安装"></a>谷歌访问助手安装</h1><h3 id="第一步：下载"><a href="#第一步：下载" class="headerlink" title="第一步：下载"></a>第一步：下载</h3><p> 链接：<a href="https://pan.baidu.com/s/1Kl_E1erIjeGmxK0bkai9vg" target="_blank" rel="noopener">https://pan.baidu.com/s/1Kl_E1erIjeGmxK0bkai9vg</a><br> <br>提取码：dzyy<br></p><h3 id="第二步：将下载的访问助手解压"><a href="#第二步：将下载的访问助手解压" class="headerlink" title="第二步：将下载的访问助手解压"></a>第二步：将下载的访问助手解压</h3><p><img src="https://img-blog.csdnimg.cn/20190721211353423.png" alt="解压后的文件"></p><h3 id="第三步：打开谷歌浏览器，点击右上角的自定义及控制-gt-更多工具-gt-扩展程序-进入到扩展程序页面"><a href="#第三步：打开谷歌浏览器，点击右上角的自定义及控制-gt-更多工具-gt-扩展程序-进入到扩展程序页面" class="headerlink" title="第三步：打开谷歌浏览器，点击右上角的自定义及控制 -&gt; 更多工具 -&gt; 扩展程序  进入到扩展程序页面"></a>第三步：打开谷歌浏览器，点击右上角的自定义及控制 -&gt; 更多工具 -&gt; 扩展程序  进入到扩展程序页面</h3><p><img src="https://img-blog.csdnimg.cn/20190721211716260.png" alt="在这里插入图片描述"></p><h5 id="1、扩展程序页面打开开发者模式"><a href="#1、扩展程序页面打开开发者模式" class="headerlink" title="1、扩展程序页面打开开发者模式"></a>1、扩展程序页面打开开发者模式</h5><p><img src="https://img-blog.csdnimg.cn/20190721211841948.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMzA2MjY2,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h5 id="2、-将crx文件拖入扩展程序："><a href="#2、-将crx文件拖入扩展程序：" class="headerlink" title="2、 将crx文件拖入扩展程序："></a>2、 将crx文件拖入扩展程序：</h5><p><img src="https://img-blog.csdnimg.cn/20190721212013512.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMzA2MjY2,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h5 id="3、拖入后会弹出提示框："><a href="#3、拖入后会弹出提示框：" class="headerlink" title="3、拖入后会弹出提示框："></a>3、拖入后会弹出提示框：</h5><p><img src="https://img-blog.csdnimg.cn/20190721212131762.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMzA2MjY2,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h5 id="4、添加扩展程序后自动跳转激活页面："><a href="#4、添加扩展程序后自动跳转激活页面：" class="headerlink" title="4、添加扩展程序后自动跳转激活页面："></a>4、添加扩展程序后自动跳转激活页面：</h5><p><img src="https://img-blog.csdnimg.cn/20190721212228325.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMzA2MjY2,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h5 id="5、点击激活后跳转到首页设置："><a href="#5、点击激活后跳转到首页设置：" class="headerlink" title="5、点击激活后跳转到首页设置："></a>5、点击激活后跳转到首页设置：</h5><p><img src="https://img-blog.csdnimg.cn/20190721212329698.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMzA2MjY2,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><h5 id="6、首页设置："><a href="#6、首页设置：" class="headerlink" title="6、首页设置："></a>6、首页设置：</h5><p><img src="https://img-blog.csdnimg.cn/20190721212546542.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMzA2MjY2,size_16,color_FFFFFF,t_70" alt="在这里插入图片描述"></p><p><strong>勾选设置后，重新启动谷歌浏览器，会发现打开谷歌浏览器后右上角会有一个谷歌浏览其访问助手的标志，则为安装成功。</strong></p><p><img src="https://img-blog.csdnimg.cn/20190721213201407.png" alt="在这里插入图片描述"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;谷歌访问助手安装&quot;&gt;&lt;a href=&quot;#谷歌访问助手安装&quot; class=&quot;headerlink&quot; title=&quot;谷歌访问助手安装&quot;&gt;&lt;/a&gt;谷歌访问助手安装&lt;/h1&gt;&lt;h3 id=&quot;第一步：下载&quot;&gt;&lt;a href=&quot;#第一步：下载&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/07/26/hello-world/"/>
+    <id>http://yoursite.com/2019/07/26/hello-world/</id>
+    <published>2019-07-26T02:46:48.038Z</published>
+    <updated>2019-07-26T02:46:48.038Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
